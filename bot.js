@@ -18,7 +18,7 @@ client.user.setStatus("dnd");
 
 // playing
 client.on('ready', () => {                           
-client.user.setGame(`NDhelp By Hmam`,'https://www.twitch.tv/tarikrs');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(`NDhelp | Thanks for inv`,'');
+client.user.setGame(`NDhelp By Hmam`,'https://www.twitch.tv/tarikrs');                                                                                                                                                                                                                                                                                                                                                                                                                             client.user.setGame(`NDhelp | Thanks for inv`,'https://www.twitch.tv/hmamkhalid');
 });          
 
 
