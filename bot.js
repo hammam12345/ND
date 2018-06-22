@@ -69,7 +69,7 @@ message.channel.send({embed});
 
 
 client.on('message', message => {
-     if (message.content === "") {
+     if (message.content === "NDhelp") {
 message.author.send("**اوامر البوت**" + `  **
 
  شكرا لإستعمالكم البوت
